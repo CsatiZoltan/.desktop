@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Spyder
+GenericName=Spyder
+Comment=The Scientific Python Development Environment
+Icon=/home/zoltan/anaconda3/lib/python3.7/site-packages/spyder/images/spyder.svg
+Exec=/home/zoltan/anaconda3/bin/spyder %F
+Terminal=false
+MimeType=text/x-python;
+Categories=Development;Science;IDE;Qt;
+Keywords=Development;Science;IDE;Qt;
+StartupNotify=true
+X-AppStream-Ignore=True
+StartupWMClass=Spyder
