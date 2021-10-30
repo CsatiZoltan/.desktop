@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Icon=doublecmd.svg
+Name=Double Commander
+Terminal=false
+Hidden=false
+Categories=Utility
+Exec=/home/zoltan/Programs/doublecmd-qt-1.0.0-3.1.Build4.1.glibc2.10-x86_64.AppImage
+StartupWMClass=arronax
+
+# See also: https://github.com/doublecmd/doublecmd/tree/master/install/linux

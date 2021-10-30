@@ -24,3 +24,5 @@ Some useful links:
       - [SmartGit](https://www.syntevo.com/smartgit/): cross-platform GUI for Git
 - Package managers
    - [Y PPA Manager](https://launchpad.net/y-ppa-manager): GUI to add and remove PPA packages
+- File managers
+   - [Double Commander](https://doublecmd.sourceforge.io/): cross-platform, two-panel file manager, similar to Total Commander
