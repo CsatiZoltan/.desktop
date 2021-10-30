@@ -19,6 +19,7 @@ Some useful links:
 - Programming
    - IDE (integrated development environment)
       - [Spyder](https://www.spyder-ide.org/): for scientific Python
+      - [PyCharm](https://www.jetbrains.com/pycharm/): probably the most advanced IDE for Python
    - Version control
       - [SmartGit](https://www.syntevo.com/smartgit/): cross-platform GUI for Git
 

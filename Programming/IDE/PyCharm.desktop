@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/zoltan/Programs/PyCharm/bin/pycharm.sh
+Terminal=false
+Hidden=false
+Name=PyCharm
+Icon=pycharm.svg
+Categories=Development
