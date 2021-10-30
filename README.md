@@ -19,4 +19,6 @@ Some useful links:
 - Programming
    - IDE (integrated development environment)
       - [Spyder](https://www.spyder-ide.org/): for scientific Python
+   - Version control
+      - [SmartGit](https://www.syntevo.com/smartgit/): cross-platform GUI for Git
 
