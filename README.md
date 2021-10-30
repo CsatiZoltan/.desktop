@@ -8,6 +8,7 @@ This contribution makes it easy for me to set the desktop icons on a fresh insta
 Some useful links:
 - [desktop entry specification](https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html)
 - editing .desktop entries in a GUI: [Arronax](http://www.florian-diesch.de/software/arronax/)
+- [where are the desktop icons installed on Ubuntu?](https://askubuntu.com/a/217339)
 
 
 
