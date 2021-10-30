@@ -22,4 +22,5 @@ Some useful links:
       - [PyCharm](https://www.jetbrains.com/pycharm/): probably the most advanced IDE for Python
    - Version control
       - [SmartGit](https://www.syntevo.com/smartgit/): cross-platform GUI for Git
-
+- Package managers
+   - [Y PPA Manager](https://launchpad.net/y-ppa-manager): GUI to add and remove PPA packages

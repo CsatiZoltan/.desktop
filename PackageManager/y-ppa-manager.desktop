@@ -1,0 +1,34 @@
+[Desktop Entry]
+Version=1.0
+Name=Y PPA Manager
+Comment=Y PPA Manager
+GenericName=Y PPA Manager
+Keywords=Launchpad PPA; PPA; manager; yppa; repository; add ppa; manage ppas; search ppa; 
+Exec=y-pkexec
+Icon=y-ppa-manager.png
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=GNOME;System;
+StartupWMClass=Y-PPA-Manager
+Actions=YPPAManager1;YPPAManager3;YPPAManager4;YPPAManager5;
+
+[Desktop Action YPPAManager1]
+Name=Add PPA
+Exec=sh -c "rm -f '/tmp/.yppa_username' '/tmp/.yppa_home' && y-pkexec add"
+
+[Desktop Action YPPAManager2]
+Name=Search in all Launchpad PPAs
+Exec=sh -c "rm -f '/tmp/.yppa_username' '/tmp/.yppa_home' && y-pkexec search"
+
+[Desktop Action YPPAManager3]
+Name=Manage PPAs
+Exec=sh -c "rm -f '/tmp/.yppa_username' '/tmp/.yppa_home' && y-pkexec manage"
+
+[Desktop Action YPPAManager4]
+Name=Advanced
+Exec=sh -c "rm -f '/tmp/.yppa_username' '/tmp/.yppa_home' && y-pkexec advanced"
+
+[Desktop Action YPPAManager5]
+Name=Settings
+Exec=sh -c "rm -f '/tmp/.yppa_username' '/tmp/.yppa_home' && y-pkexec settings"
