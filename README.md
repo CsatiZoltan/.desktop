@@ -3,7 +3,7 @@ My .desktop files
 
 
 
-This contribution makes it easy for me to set the desktop icons on a fresh install. To be self-contained, each desktop entry is accompanied by an icon -- the logo of the application. All the entries were tried on Ubuntu 18.04 LTS with Gnome 3 desktop environment. Note that you may need to change the path to the executable or to the icon, depending on where they are on your system. To find where a specific program is installed, use `which your_program` or `whereis your_program`.
+This contribution makes it easy for me to set the desktop icons on a fresh install. To be self-contained, each desktop entry is accompanied by an icon -- the logo of the application. When logos are available in multiple resolutions, the highest available is chosen, moreover the SVG format is preferred to PNG. All the entries were tried on Ubuntu 18.04 LTS with Gnome 3 desktop environment. Note that you may need to change the path to the executable or to the icon, depending on where they are on your system. To find where a specific program is installed, use `which your_program` or `whereis your_program`.
 
 Some useful links:
 - [desktop entry specification](https://specifications.freedesktop.org/desktop-entry-spec/desktop-entry-spec-latest.html)
